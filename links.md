@@ -1,3 +1,4 @@
+| [Fri Jul 13 05:00:01 UTC 2018](https://transfer.sh/AzTkA/dashninja-dbdump-20180713070001.tar.bz2) | 230658029 | 7e41479e6ba7f48135cf22193feb6f8f1f27e74e1b71204c3dc4db326ff127cd | 
 | [Thu Jul 12 05:00:01 UTC 2018](https://transfer.sh/Vd7Lg/dashninja-dbdump-20180712070001.tar.bz2) | 230584805 | 56362b7c4a505d103a433c876d32c7de5ad034448012e4becaa965c80a970180 | 
 | [Wed Jul 11 05:00:02 UTC 2018](https://transfer.sh/dfQYj/dashninja-dbdump-20180711070002.tar.bz2) | 230299391 | 8b274ee678bea37eee68619d0ae020fdb7133b73e18f8cd1085a331176284ee1 | 
 | [Tue Jul 10 05:00:01 UTC 2018](https://transfer.sh/EG9Qb/dashninja-dbdump-20180710070001.tar.bz2) | 230224180 | 6bcf3044b63adc774f85e854db199c8df28873ac1716304c3b35150fc85e1276 | 
@@ -11,4 +12,3 @@
 | [Mon Jul  2 05:00:01 UTC 2018](https://transfer.sh/EDoEO/dashninja-dbdump-20180702070001.tar.bz2) | 229310822 | ed87c89763730e0d4a25745c08dbef0e0f52d75b6f49d2a8d30c4c7a915be31d | 
 | [Sun Jul  1 05:00:02 UTC 2018](https://transfer.sh/13YlP8/dashninja-dbdump-20180701070002.tar.bz2) | 228598094 | ecd64760aac9b0665c9794c1319594e60569bf4cdbf31339a83e225ca65206c1 | 
 | [Sat Jun 30 05:00:02 UTC 2018](https://transfer.sh/k0UxO/dashninja-dbdump-20180630070002.tar.bz2) | 228171225 | f2dc2fbf5d85bbb75045537be10cf92a4c636fda1409d85b1122826c2add28dd | 
-| [Fri Jun 29 05:00:01 UTC 2018](https://transfer.sh/jrnVo/dashninja-dbdump-20180629070001.tar.bz2) | 227870857 | caec57bc4694818cdfd83a3f0b33fc61d93a4eb36fa57670731e7c6411bb7d6d | 
