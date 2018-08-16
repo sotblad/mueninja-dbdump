@@ -1,9 +1,9 @@
 #!/bin/bash
 
-DB_user=dmndbdump
-DB=dash_mnninja
+DB_user=mmndbdump
+DB=mueninja
 MAINDIR=./dump
-DIR=dashninja-dbdump-$(date +%Y%m%d%H%M%S)
+DIR=mueninja-dbdump-$(date +%Y%m%d%H%M%S)
 DUMPDIR=$MAINDIR/$DIR
 DUMPNAM=$DIR.tar.bz2
 FULLDUMPNAM=$MAINDIR/$DUMPNAM
